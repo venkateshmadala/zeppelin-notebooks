@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%sh\necho \"Hello World\"",
+      "text": "%sh\necho \"Hello World\"\necho \"Test world\"",
       "user": "admin",
-      "dateUpdated": "Jun 10, 2017 11:43:45 AM",
+      "dateUpdated": "Jun 10, 2017 11:54:30 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -16,7 +16,9 @@
           "scatter": {}
         },
         "enabled": true,
-        "editorMode": "ace/mode/sh"
+        "editorMode": "ace/mode/sh",
+        "editorHide": false,
+        "tableHide": false
       },
       "settings": {
         "params": {},
@@ -27,17 +29,17 @@
       "result": {
         "code": "SUCCESS",
         "type": "TEXT",
-        "msg": "Hello World\n"
+        "msg": "Hello World\nTest world\n"
       },
       "dateCreated": "Jun 10, 2017 11:43:17 AM",
-      "dateStarted": "Jun 10, 2017 11:43:46 AM",
-      "dateFinished": "Jun 10, 2017 11:43:49 AM",
+      "dateStarted": "Jun 10, 2017 11:54:30 AM",
+      "dateFinished": "Jun 10, 2017 11:54:30 AM",
       "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "",
-      "dateUpdated": "Jun 10, 2017 11:43:56 AM",
+      "dateUpdated": "Jun 10, 2017 11:47:16 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -49,7 +51,9 @@
           "groups": [],
           "scatter": {}
         },
-        "enabled": true
+        "enabled": true,
+        "editorHide": false,
+        "tableHide": false
       },
       "settings": {
         "params": {},
@@ -59,6 +63,7 @@
       "id": "20170610-114345_1074486861",
       "dateCreated": "Jun 10, 2017 11:43:45 AM",
       "status": "READY",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     }
   ],
@@ -84,6 +89,8 @@
     "2CK38RV2R:shared_process": [],
     "2CKV7G3VM:shared_process": []
   },
-  "config": {},
+  "config": {
+    "looknfeel": "default"
+  },
   "info": {}
 }
