@@ -1,0 +1,55 @@
+{
+  "paragraphs": [
+    {
+      "text": "",
+      "dateUpdated": "Jun 10, 2017 6:57:38 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1497121052441_-591999117",
+      "id": "20170610-185732_1843799882",
+      "dateCreated": "Jun 10, 2017 6:57:32 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    }
+  ],
+  "name": "Untitled Note 1",
+  "id": "2CJAGYGGA",
+  "angularObjects": {
+    "2CHREGS22:shared_process": [],
+    "2CK9JH1S1:shared_process": [],
+    "2CKGPA6Y2:shared_process": [],
+    "2CJ91Z8TX:shared_process": [],
+    "2CKGCJK7S:shared_process": [],
+    "2CJHB2NDW:shared_process": [],
+    "2CK21J3V2:shared_process": [],
+    "2CKP7REFR:shared_process": [],
+    "2CMCSSPG5:shared_process": [],
+    "2CHJEFU21:shared_process": [],
+    "2CJ9WQAE4:shared_process": [],
+    "2CKJCEVZB:shared_process": [],
+    "2CMS9XY68:shared_process": [],
+    "2CHTEDZBB:shared_process": [],
+    "2CHJJUUCH:shared_process": [],
+    "2CHYM5GM6:shared_process": [],
+    "2CK38RV2R:shared_process": [],
+    "2CKV7G3VM:shared_process": []
+  },
+  "config": {},
+  "info": {}
+}

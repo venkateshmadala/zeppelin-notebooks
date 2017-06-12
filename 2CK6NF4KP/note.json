@@ -1,9 +1,9 @@
 {
   "paragraphs": [
     {
-      "text": "%sh\necho \"2 part of series\"",
-      "user": "admin",
-      "dateUpdated": "Jun 10, 2017 12:29:53 PM",
+      "text": "%sh\necho \"My name is Venkatesh Madala\"\necho \" My nick name is Venky \"",
+      "user": "user1",
+      "dateUpdated": "Jun 10, 2017 6:50:39 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -22,22 +22,18 @@
         "params": {},
         "forms": {}
       },
-      "jobName": "paragraph_1497097659016_-106816853",
-      "id": "20170610-122739_227240411",
-      "result": {
-        "code": "SUCCESS",
-        "type": "TEXT",
-        "msg": "2 part of series\n"
-      },
-      "dateCreated": "Jun 10, 2017 12:27:39 PM",
-      "dateStarted": "Jun 10, 2017 12:29:53 PM",
-      "dateFinished": "Jun 10, 2017 12:29:53 PM",
+      "jobName": "paragraph_1497103405974_374195525",
+      "id": "20170610-140325_1906707721",
+      "dateCreated": "Jun 10, 2017 2:03:25 AM",
+      "dateStarted": "Jun 10, 2017 6:50:40 AM",
+      "dateFinished": "Jun 10, 2017 6:50:40 AM",
       "status": "FINISHED",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     },
     {
       "text": "",
-      "dateUpdated": "Jun 10, 2017 12:30:03 PM",
+      "dateUpdated": "Jun 10, 2017 5:57:49 AM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -49,21 +45,23 @@
           "groups": [],
           "scatter": {}
         },
-        "enabled": true
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
       },
       "settings": {
         "params": {},
         "forms": {}
       },
-      "jobName": "paragraph_1497097793351_-796086023",
-      "id": "20170610-122953_2062771843",
-      "dateCreated": "Jun 10, 2017 12:29:53 PM",
+      "jobName": "paragraph_1497117458606_-346442831",
+      "id": "20170610-175738_1298705133",
+      "dateCreated": "Jun 10, 2017 5:57:38 AM",
       "status": "READY",
+      "errorMessage": "",
       "progressUpdateIntervalMs": 500
     }
   ],
-  "name": "new1",
-  "id": "2CMVBRDYP",
+  "name": "HelloTest1",
+  "id": "2CK6NF4KP",
   "angularObjects": {
     "2CHREGS22:shared_process": [],
     "2CK9JH1S1:shared_process": [],
@@ -84,6 +82,9 @@
     "2CK38RV2R:shared_process": [],
     "2CKV7G3VM:shared_process": []
   },
-  "config": {},
+  "config": {
+    "looknfeel": "default",
+    "cron": ""
+  },
   "info": {}
 }
